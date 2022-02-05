@@ -46,18 +46,191 @@ Tsutsui, William M. _Godzilla on My Mind: Fifty Years of the King of Monsters_. 
 {{< anchor "Reading_Assignments" >}}{{< /anchor >}}Reading Assignments
 ----------------------------------------------------------------------
 
-| Lec # | Topics | Reading Assignments |
-| --- | --- | --- |
-| 1 | Introduction: Understanding Japan | Timeline Comparing Japan, U.S. and Other Civilizations ([PDF]({{< baseurl >}}/resources/week1_timeline)) |
-| 2 | Reading Maps and Defining Technology | &nbsp; |
-| 3 | Tokugawa Japan, 1600-1868 | Bartholomew, chapters 1 and 2, pp. 1-48.  {{< br >}}  {{< br >}}[Black Ships and Samurai](https://visualizingcultures.mit.edu/black_ships_and_samurai/index.html) |
-| 4 | Meiji Japan, 1868-1911 | Samuels, chapter 3, pp. 33-78. |
-| 5 | Imperialism, Technology, and Business | Blackford, chapter 5, pp. 103-127. |
-| 6 | _Kamikazation_ of Japan, 1937-1945 | Ohnuki-Tierney, chapter 5, pp. 157-185.  {{< br >}}  {{< br >}}[Kamikaze Images](http://wgordon.web.wesleyan.edu/kamikaze/index.htm) |
-| 7 | Postwar Japan I, 1945-73 | Dower, chapter 1, pp. 33-64.  {{< br >}}  {{< br >}}Morris-Suzuki. _The Technological Transformation of Japan_. Chapter 7, pp. 161-208. |
-| 8 | Symbol of Postwar Japan: Godzilla | Tsutsui, chapter 3, pp. 81-111. |
-| 9 | Symbol of Postwar Japan: The _Shinkansen_ Bullet Train | Koizumi  {{< br >}}  {{< br >}}Nishiyama |
-| 10 | Postwar Japan II, 1973-Present | Partner, conclusion, pp. 225-242.  {{< br >}}  {{< br >}}Cusmano, conclusion, pp. 374-384. |
-| 11 | Symbol of Postwar Japan: Anime | Napier, chapter 5, pp. 85-102.  {{< br >}}  {{< br >}}Toby, conclusion, pp. 257-292. |
-| 12 | Japan in the "West" | Blackford, chapter 8, pp. 228-234.  {{< br >}}  {{< br >}}Kingston, chapter 9, pp. 92-103. |
-| 13 | Review: Technology and Culture in Modern Japan |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Reading Assignments
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Understanding Japan
+{{< tdclose >}}
+{{< tdopen >}}
+Timeline Comparing Japan, U.S. and Other Civilizations ([PDF]({{< baseurl >}}/resources/week1_timeline))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Reading Maps and Defining Technology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Tokugawa Japan, 1600-1868
+{{< tdclose >}}
+{{< tdopen >}}
+Bartholomew, chapters 1 and 2, pp. 1-48.  
+  
+[Black Ships and Samurai](https://visualizingcultures.mit.edu/black_ships_and_samurai/index.html)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Meiji Japan, 1868-1911
+{{< tdclose >}}
+{{< tdopen >}}
+Samuels, chapter 3, pp. 33-78.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Imperialism, Technology, and Business
+{{< tdclose >}}
+{{< tdopen >}}
+Blackford, chapter 5, pp. 103-127.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+_Kamikazation_ of Japan, 1937-1945
+{{< tdclose >}}
+{{< tdopen >}}
+Ohnuki-Tierney, chapter 5, pp. 157-185.  
+  
+[Kamikaze Images](http://wgordon.web.wesleyan.edu/kamikaze/index.htm)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Postwar Japan I, 1945-73
+{{< tdclose >}}
+{{< tdopen >}}
+Dower, chapter 1, pp. 33-64.  
+  
+Morris-Suzuki. _The Technological Transformation of Japan_. Chapter 7, pp. 161-208.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Symbol of Postwar Japan: Godzilla
+{{< tdclose >}}
+{{< tdopen >}}
+Tsutsui, chapter 3, pp. 81-111.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Symbol of Postwar Japan: The _Shinkansen_ Bullet Train
+{{< tdclose >}}
+{{< tdopen >}}
+Koizumi  
+  
+Nishiyama
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Postwar Japan II, 1973-Present
+{{< tdclose >}}
+{{< tdopen >}}
+Partner, conclusion, pp. 225-242.  
+  
+Cusmano, conclusion, pp. 374-384.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Symbol of Postwar Japan: Anime
+{{< tdclose >}}
+{{< tdopen >}}
+Napier, chapter 5, pp. 85-102.  
+  
+Toby, conclusion, pp. 257-292.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Japan in the "West"
+{{< tdclose >}}
+{{< tdopen >}}
+Blackford, chapter 8, pp. 228-234.  
+  
+Kingston, chapter 9, pp. 92-103.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Review: Technology and Culture in Modern Japan
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
