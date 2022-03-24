@@ -21,7 +21,7 @@ Dower, John W. _Embracing Defeat: Japan in the Wake of World War II_. New York, 
 
 Kingston, Jeffrey. _Japan in Transformation, 1952-2000_. New York, NY: Longman, 2001. ISBN: 9780582418752.
 
-ICH Steering Committee. "The Future of ICH - Revised 2000: A Statement by the ICH Steering Committee on the occasion of the Fifth International Conference on Harmonisation, 9-11 November 2000, San Diego." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ich.org/fileadmin/Public_Web_Site/ABOUT_ICH/Vision/The_Future_of_ICH_-_Revised_2000.pdf))
+ICH Steering Committee. "The Future of ICH - Revised 2000: A Statement by the ICH Steering Committee on the occasion of the Fifth International Conference on Harmonisation, 9-11 November 2000, San Diego." ([PDF](http://www.ich.org/fileadmin/Public_Web_Site/ABOUT_ICH/Vision/The_Future_of_ICH_-_Revised_2000.pdf))
 
 Koizumi, Kenkichiro. "In Search of Wakon: The Cultural Dynamics of the Rise of Manufacturing Technology in Postwar Japan." _Technology and Culture_ 43, no. 1 (2002): 29-49.
 
@@ -29,7 +29,7 @@ Napier, Susan J. _Anime from Akira to Princess Mononoke: Experiencing Contempora
 
 Nishiyama, Takashi. "Cross-disciplinary Technology Transfer in Trans-World War II Japan: The Japanese High-Speed Bullet Train as a Case Study." _Comparative Technology Transfer and Society_ 1, no. 3 (2003): 305-325.
 
-Nutley, Caroline. "The Value and Benefits of ICH to Industry." 2000. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://nanopdf.com/download/value-benefits-the-value-and-benefits-of-ich-to-industry_pdf#:~:text=ICH%2C%20through%20its%20activities%20in,each%20of%20the%20three%20regions.))
+Nutley, Caroline. "The Value and Benefits of ICH to Industry." 2000. ([PDF](https://nanopdf.com/download/value-benefits-the-value-and-benefits-of-ich-to-industry_pdf#:~:text=ICH%2C%20through%20its%20activities%20in,each%20of%20the%20three%20regions.))
 
 Ohnuki-Tierney, Emiko. _Kamikaze, Cherry Blossoms, and Nationalism: The Militarization of Aesthetics in Japanese History_. Chicago, IL: University of Chicago Press, 2002. ISBN: 9780226620916.
 
