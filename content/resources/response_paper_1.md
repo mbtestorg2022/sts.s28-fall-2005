@@ -4,6 +4,7 @@ description: 'This resource contains two set questions based on chapters 1 and 2
   The Formation of Science in Japan: Building a Research Tradition by James. R. Bartholomew.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-modern-japan-fall-2005/b4b3555544b51db81eaec1b1c8ac47ec_response_paper_1.pdf
 file_type: application/pdf
+parent_uid: c6f4e83e-fc4c-10f2-e4a4-98c15f73db6e
 resourcetype: Document
 title: response_paper_1.pdf
 uid: b4b35555-44b5-1db8-1eae-c1b1c8ac47ec
